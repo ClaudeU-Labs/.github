@@ -28,6 +28,6 @@ ClaudeU Labs is committed to a professional, welcoming, evidence-based, and priv
 
 This code applies in repositories, issues, pull requests, reviews, discussions, and official community interactions managed by ClaudeU Labs.
 
-Report conduct concerns privately through [ClaudeU Support](https://claudeu.com/zh-CN/support). Do not use a public issue when the report contains personal, security, or abuse-related information. Maintainers may edit, hide, reject, lock, or remove content and may temporarily or permanently restrict participation when necessary to protect contributors and users.
+Report conduct concerns privately through the contact route on the [ClaudeU homepage](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=code-of-conduct-contact). Do not use a public issue when the report contains personal, security, or abuse-related information. Maintainers may edit, hide, reject, lock, or remove content and may temporarily or permanently restrict participation when necessary to protect contributors and users.
 
 Good-faith technical disagreement is welcome. Retaliation against someone who reports a concern is not.

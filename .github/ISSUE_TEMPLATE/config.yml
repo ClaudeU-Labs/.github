@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
   - name: ClaudeU product support / ClaudeU 产品支持
-    url: https://claudeu.com/zh-CN/support
-    about: Use this for ClaudeU Desktop, installation, account, payment, quota, gateway, or commercial-service questions.
+    url: https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=issue-product-support
+    about: Use the current product contact route from the ClaudeU homepage.
   - name: Security reporting / 安全问题
-    url: https://claudeu.com/zh-CN/security
-    about: Report vulnerabilities or sensitive-data exposure privately. Do not open a public issue.
+    url: https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=issue-security-reporting
+    about: Use the current private security contact route from the ClaudeU homepage.
   - name: Terms and product boundary / 条款与产品边界
-    url: https://claudeu.com/zh-CN/terms
-    about: Review the terms for the proprietary ClaudeU product and hosted services.
+    url: https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=issue-product-boundary
+    about: Find current commercial terms and product information from the ClaudeU homepage.

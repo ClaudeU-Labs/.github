@@ -14,6 +14,8 @@ This is the special `.github` repository for the `ClaudeU-Labs` GitHub organizat
 - `PULL_REQUEST_TEMPLATE.md`: default pull request checklist
 - `ISSUE_TEMPLATE/config.yml`: default issue chooser configuration
 - `.markdownlint.json`: Markdown lint configuration for bilingual prose and tables
+- `.github/workflows/docs.yml`: Windows profile and link-contract validation
+- `scripts/Test-Profile.ps1`: homepage CTA, repository navigation, and relative-link checks
 - `NOTICE.md`: ownership, trademark, and license-scope notices
 - `LICENSE`: Creative Commons Attribution 4.0 International
 
@@ -26,3 +28,11 @@ The CC BY 4.0 license in this repository applies only to original text and confi
 - Anthropic software, binaries, installers, runtimes, icons, screenshots, names, marks, or other third-party assets.
 
 See [NOTICE.md](NOTICE.md) for the complete boundary and attribution notice.
+
+## Validation
+
+Run the same dependency-free check used by GitHub Actions:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Test-Profile.ps1
+```

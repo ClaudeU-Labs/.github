@@ -10,9 +10,9 @@ For a vulnerability in a ClaudeU Labs public repository:
 
 1. Open the affected repository's **Security** tab.
 2. Use **Report a vulnerability** if private vulnerability reporting is enabled.
-3. If private reporting is unavailable, contact the maintainers through [ClaudeU Security](https://claudeu.com/zh-CN/security) and identify the affected public repository. Do not include secrets in the first message.
+3. If private reporting is unavailable, use the current security contact route from the [ClaudeU homepage](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=security-report-fallback) and identify the affected public repository. Do not include secrets in the first message.
 
-For ClaudeU Desktop, account, gateway, billing, hosted-service, or customer-data concerns, use [ClaudeU Security](https://claudeu.com/zh-CN/security). Those systems are outside the public repositories' issue trackers.
+For ClaudeU Desktop, account, gateway, billing, hosted-service, or customer-data concerns, use the current contact route from the [ClaudeU homepage](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=security-product-scope). Those systems are outside the public repositories' issue trackers.
 
 ## What to include
 

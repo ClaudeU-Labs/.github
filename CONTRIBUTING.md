@@ -40,4 +40,4 @@ A focused pull request should:
 
 By contributing, you certify that you wrote the contribution or otherwise have the right to submit it, and that it may be distributed under the affected repository's license. A public contribution does not grant rights to the ClaudeU name, visual identity, commercial product, or third-party marks.
 
-Maintainers may close contributions that are out of scope, unsafe, promotional, unverifiable, or incompatible with the repository license. Product support requests should use [ClaudeU Support](https://claudeu.com/zh-CN/support), not a public code issue.
+Maintainers may close contributions that are out of scope, unsafe, promotional, unverifiable, or incompatible with the repository license. Product support requests should use the contact route on the [ClaudeU homepage](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=contributing-product-support), not a public code issue.

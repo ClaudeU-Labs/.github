@@ -1,0 +1,21 @@
+name: Organization profile checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate profile and links
+        shell: powershell
+        run: .\scripts\Test-Profile.ps1
