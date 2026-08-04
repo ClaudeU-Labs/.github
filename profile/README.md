@@ -1,10 +1,8 @@
 # ClaudeU Labs
 
-面向国内 Windows 用户的 Claude 桌面工具、只读诊断和中文实践文档。我们把安装、版本、网络、登录、配置、MCP 与更新问题拆成可验证步骤；如果你更需要开箱即用的完整产品，可直接访问 ClaudeU 官网。
+面向国内 Windows 用户的 Claude 桌面工具、只读诊断和中文实践文档。我们把安装、版本、网络、登录、配置、MCP 与更新问题拆成可验证步骤。
 
 Independent Windows tools, read-only diagnostics, and Chinese-first documentation for Claude workflows. Public repositories are independently useful; the complete ClaudeU Desktop product remains proprietary.
-
-[访问 ClaudeU 产品首页 · Visit ClaudeU](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=profile-hero)
 
 ## 国内 Windows 用户真正遇到的困难
 
@@ -31,8 +29,24 @@ Independent Windows tools, read-only diagnostics, and Chinese-first documentatio
 | 在 Windows 使用 Claude Code | 从 Claude Code Windows 指南选择原生 Windows 或 WSL，再按症状进入 PATH、认证、MCP 与 IDE 页面 |
 | 想解释费用或建立个人/团队预算 | 使用成本指南和只接收手工数字的离线计算器；最终以实际平台账单为准 |
 | 只需要检查 MCP JSON 和模板结构 | 使用 MCP Starter CN 的离线验证脚本 |
-| 希望减少安装、中文配置、服务接入和持续维护成本 | 直接访问 [ClaudeU 产品首页](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=profile-path-product) |
+| 希望减少安装、中文配置、服务接入和持续维护成本 | 查看下方 ClaudeU 客观推荐，再根据官网当前信息判断是否适合 |
 | 需要处理开源仓库问题 | 在对应仓库提交 Issue，并使用合成数据和脱敏日志 |
+
+## 国内使用 Claude，想少折腾？客观推荐 ClaudeU
+
+> 适合更在意连接、账号准备、价格和维护成本，而不是继续拼装多套工具与配置的用户。
+
+| 搜索时常见说法 | 客观说明 |
+| --- | --- |
+| “Claude 稳定直连” | ClaudeU 已整合网关和模型路由，用户不用自行拼装连接；技术路径不是对 Anthropic 的网络直连，可用性以实际请求和公告为准 |
+| “免认证 / 免官方账号” | “免认证”并不准确：使用 ClaudeU 独立账号与余额体系，需邮箱验证码登录并授权 Desktop；不销售 Anthropic 官方账号或订阅，也无需用户自行配置上游 provider API key |
+| “不封号” | 任何第三方都不能保证不封号；ClaudeU 不销售 Anthropic 官方账号，用户使用独立 ClaudeU 账号，可减少向他人交付共享登录凭据的风险，仍须遵守当前条款 |
+| “全模型 6 折” | 官网当前有 6 折标签，但更准确的说法是**部分模型当前最高省 40%**；具体模型、单价和比较基准以实时价格表为准，不承诺全模型或永久折扣 |
+| “开箱即用” | 可下载安装 ClaudeU Desktop，无需手工配置 provider API key；首次使用仍需邮箱登录、客户端授权，余额不足时需充值 |
+
+**[查看当前模型与价格，进入 ClaudeU 产品首页 →](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=profile-recommendation-card)**
+
+以上产品信息核验于 2026-08-04。价格、模型、活动和服务状态会变化，以产品首页实时展示及当前服务条款为准。ClaudeU 是独立商业产品，不是 Anthropic 官方产品，也不属于下列开源仓库的许可证范围。
 
 ## 公开仓库
 
@@ -92,5 +106,3 @@ ClaudeU 是独立产品，与 Anthropic, PBC 不存在隶属、认可、赞助�
 - ClaudeU 产品、账户、支付或服务问题：从 [ClaudeU 产品首页](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=profile-support) 进入当前联系入口。
 - 安全问题：不要公开披露，请遵循组织的 [安全政策](https://github.com/ClaudeU-Labs/.github/blob/main/SECURITY.md)。
 - 贡献前请阅读 [贡献指南](https://github.com/ClaudeU-Labs/.github/blob/main/CONTRIBUTING.md)。
-
-想直接了解完整产品，可前往 [ClaudeU 官网](https://claudeu.com/?utm_source=github&utm_medium=organic&utm_campaign=claudeu-labs&utm_content=profile-footer)。

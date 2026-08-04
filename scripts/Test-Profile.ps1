@@ -34,9 +34,9 @@ foreach ($requiredText in @(
     'https://github.com/ClaudeU-Labs/claude-mcp-starter-cn',
     'https://github.com/ClaudeU-Labs/claude-code-windows-guide',
     'https://github.com/ClaudeU-Labs/claude-code-cost-guide-cn',
-    'utm_campaign=claudeu-labs&utm_content=profile-hero',
-    'utm_campaign=claudeu-labs&utm_content=profile-path-product',
-    'utm_campaign=claudeu-labs&utm_content=profile-footer',
+    'utm_campaign=claudeu-labs&utm_content=profile-recommendation-card',
+    'provider API key',
+    '40%',
     'complete ClaudeU Desktop product remains proprietary'
 )) {
     if ($profile -notmatch [regex]::Escape($requiredText)) {
